@@ -47,9 +47,6 @@ A tile-based action game prototype implemented in C using the Allegro 5 multimed
 ├── last_dance.vcxproj          # Original Visual Studio project
 ├── last_dance.vcxproj.filters  # Original Visual Studio filters
 ├── packages.config             # Allegro NuGet dependencies
-├── ORIGINAL_FILE_MANIFEST.tsv  # SHA-256 integrity record
-├── .gitattributes              # Git LFS rules for audio binaries
-└── .gitignore
 ```
 
 ## Build and run
